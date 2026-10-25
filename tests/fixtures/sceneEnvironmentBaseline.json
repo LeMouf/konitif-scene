@@ -1,0 +1,4647 @@
+{
+  "environments": [
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 0,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 0,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -180,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 0,
+        "moonPhase": 0.40370106337798006,
+        "solarDaySpanDeg": 121.94737721929684,
+        "sunDirection": {
+          "x": -0.024404987420070398,
+          "y": -0.8997866767658532,
+          "z": 0.43564702788345544
+        },
+        "moonDirection": {
+          "x": 0.5616694912408455,
+          "y": 0.7940616009089788,
+          "z": -0.23236513630731986
+        },
+        "effectiveExposure": 0.5103680713379556,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.3722667581255841,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.3722667581255841,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.5616694912408455,
+          "y": 0.7940616009089788,
+          "z": -0.23236513630731986
+        },
+        "intensityFactor": 0.5747095142534366,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 0.6999999999999993,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 5.5,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 5.5,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -97.5,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 82.5,
+        "moonPhase": 0.4114613784338985,
+        "solarDaySpanDeg": 121.94737721929684,
+        "sunDirection": {
+          "x": -0.9154771429508456,
+          "y": -0.35758578321091583,
+          "z": -0.18448308426517843
+        },
+        "moonDirection": {
+          "x": 0.7881685835193184,
+          "y": 0.0681065367273654,
+          "z": 0.6116794778379896
+        },
+        "effectiveExposure": 0.30729127031201897,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.11191188501540897,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.11191188501540897,
+        "skyZenithColor": "#263c5e",
+        "skyHorizonColor": "#d38368",
+        "skyGroundColor": "#5d5360",
+        "fogColor": "#d38368",
+        "lightColor": "#ffc29a",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.7881685835193182,
+          "y": 0.06810653672736539,
+          "z": 0.6116794778379895
+        },
+        "intensityFactor": 0.35535069433601457,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 6.199999999999999,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 12,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 12,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "day",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 1,
+        "dayCycleAngleDeg": 0,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 180,
+        "moonPhase": 0.42063265986359966,
+        "solarDaySpanDeg": 121.94737721929684,
+        "sunDirection": {
+          "x": 0.02346534801939875,
+          "y": 0.3116428222200686,
+          "z": -0.9499095371671132
+        },
+        "moonDirection": {
+          "x": -0.4580477160230157,
+          "y": -0.15185150582907142,
+          "z": 0.8758615244566587
+        },
+        "effectiveExposure": 0.9996948033280899,
+        "solarExposureFactor": 0.9996087222154999,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0,
+        "reflectionFactor": 0.9996087222154999,
+        "skyZenithColor": "#397bc0",
+        "skyHorizonColor": "#c8e2f1",
+        "skyGroundColor": "#91a6ae",
+        "fogColor": "#c8e2f1",
+        "lightColor": "#fff5dc",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.02346534801939875,
+          "y": 0.3116428222200686,
+          "z": -0.9499095371671132
+        },
+        "intensityFactor": 0.9996087222154999,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 12.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 20,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 20,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 120,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 300,
+        "moonPhase": 0.4319203908540885,
+        "solarDaySpanDeg": 121.94737721929684,
+        "sunDirection": {
+          "x": 0.7858408566595141,
+          "y": -0.6094434191920427,
+          "z": 0.1050374543110843
+        },
+        "moonDirection": {
+          "x": -0.495915588613115,
+          "y": 0.8339891306794225,
+          "z": -0.24192945021036333
+        },
+        "effectiveExposure": 0.5282144250391632,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.39514669876815794,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.39514669876815794,
+        "skyZenithColor": "#303c69",
+        "skyHorizonColor": "#cf765f",
+        "skyGroundColor": "#5c4e5c",
+        "fogColor": "#cf765f",
+        "lightColor": "#ffb18c",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.495915588613115,
+          "y": 0.8339891306794225,
+          "z": -0.24192945021036333
+        },
+        "intensityFactor": 0.5885861346484227,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 20.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 23.99,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 23.989999999999995,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 179.8499999999999,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 359.8499999999999,
+        "moonPhase": 0.4375501466855667,
+        "solarDaySpanDeg": 121.94737721929684,
+        "sunDirection": {
+          "x": -0.02012115459109376,
+          "y": -0.8992106981464755,
+          "z": 0.4370529252583141
+        },
+        "moonDirection": {
+          "x": 0.3455074059597865,
+          "y": 0.8887342296610222,
+          "z": -0.30129072580444366
+        },
+        "effectiveExposure": 0.5404838098520338,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.4108766792974793,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.4108766792974793,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.3455074059597866,
+          "y": 0.8887342296610223,
+          "z": -0.3012907258044437
+        },
+        "intensityFactor": 0.5978486884430168,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 1,
+        "timeHours": 0.6899999999999942,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 0,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 0,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -180,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 0,
+        "moonPhase": 0.6476353866633531,
+        "solarDaySpanDeg": 162.26803527572483,
+        "sunDirection": {
+          "x": 0.013392729257928553,
+          "y": -0.754673772577698,
+          "z": 0.6559635140664218
+        },
+        "moonDirection": {
+          "x": -0.6949561645313697,
+          "y": 0.2966521292826392,
+          "z": -0.6550064454430385
+        },
+        "effectiveExposure": 0.38223356468731856,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.20799174959912636,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.20799174959912636,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.6949561645313697,
+          "y": 0.2966521292826392,
+          "z": -0.6550064454430385
+        },
+        "intensityFactor": 0.45532880683302196,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 0.6999999999999993,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 5.5,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 5.5,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "dawn",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.19271476073526622,
+        "dayCycleAngleDeg": -97.5,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 82.5,
+        "moonPhase": 0.6553957017193284,
+        "solarDaySpanDeg": 162.26803527572483,
+        "sunDirection": {
+          "x": -0.9805263022619324,
+          "y": -0.19553587758195565,
+          "z": 0.018272688658106898
+        },
+        "moonDirection": {
+          "x": 0.5572346836185054,
+          "y": 0.35358539096705893,
+          "z": -0.7513101081891927
+        },
+        "effectiveExposure": 0.3928772378466392,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.22163748441876824,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0.8086453664861415,
+        "reflectionFactor": 0.22163748441876824,
+        "skyZenithColor": "#263c5e",
+        "skyHorizonColor": "#d38368",
+        "skyGroundColor": "#5d5360",
+        "fogColor": "#d38368",
+        "lightColor": "#ffc29a",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.5572346836185054,
+          "y": 0.35358539096705893,
+          "z": -0.7513101081891927
+        },
+        "intensityFactor": 0.46705063717226064,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 6.199999999999999,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 12,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 12,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "day",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 1,
+        "dayCycleAngleDeg": 0,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 180,
+        "moonPhase": 0.6645669831490295,
+        "solarDaySpanDeg": 162.26803527572483,
+        "sunDirection": {
+          "x": -0.012991011660358567,
+          "y": 0.5515066266631385,
+          "z": -0.8340693462552655
+        },
+        "moonDirection": {
+          "x": 0.745378963854019,
+          "y": -0.5956726291592255,
+          "z": 0.2993063967148796
+        },
+        "effectiveExposure": 0.9999508790551422,
+        "solarExposureFactor": 0.9999370244296696,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0,
+        "reflectionFactor": 0.9999370244296696,
+        "skyZenithColor": "#397bc0",
+        "skyHorizonColor": "#c8e2f1",
+        "skyGroundColor": "#91a6ae",
+        "fogColor": "#c8e2f1",
+        "lightColor": "#fff5dc",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.012991011660358567,
+          "y": 0.5515066266631385,
+          "z": -0.8340693462552655
+        },
+        "intensityFactor": 0.9999370244296696,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 12.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 20,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 20,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 120,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 300,
+        "moonPhase": 0.6758547141394615,
+        "solarDaySpanDeg": 162.26803527572483,
+        "sunDirection": {
+          "x": 0.8648206251973255,
+          "y": -0.41770153824835443,
+          "z": 0.2785869903248635
+        },
+        "moonDirection": {
+          "x": -0.8780493751997197,
+          "y": -0.4661274739928557,
+          "z": 0.10841804600905505
+        },
+        "effectiveExposure": 0.22,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0,
+        "skyZenithColor": "#303c69",
+        "skyHorizonColor": "#cf765f",
+        "skyGroundColor": "#5c4e5c",
+        "fogColor": "#cf765f",
+        "lightColor": "#ffb18c",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "intensityFactor": 0,
+        "source": "none"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 20.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 23.99,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 23.989999999999995,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 179.8499999999999,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 359.8499999999999,
+        "moonPhase": 0.6814844699709397,
+        "solarDaySpanDeg": 162.26803527572483,
+        "sunDirection": {
+          "x": 0.015175397049053718,
+          "y": -0.7502960817225829,
+          "z": 0.6609277548084534
+        },
+        "moonDirection": {
+          "x": -0.7905309555401717,
+          "y": 0.132944581139774,
+          "z": -0.5978181551929592
+        },
+        "effectiveExposure": 0.32681483434663394,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.13694209531619736,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.13694209531619736,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.7905309555401717,
+          "y": 0.132944581139774,
+          "z": -0.5978181551929592
+        },
+        "intensityFactor": 0.38523121588196085,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 60,
+        "timeHours": 0.6899999999999942,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 0,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 0,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -180,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 0,
+        "moonPhase": 0.7181507451790594,
+        "solarDaySpanDeg": 220.6542580643595,
+        "sunDirection": {
+          "x": -0.013918100021565669,
+          "y": -0.40865955103085044,
+          "z": 0.9125807678463608
+        },
+        "moonDirection": {
+          "x": -0.9005673235693096,
+          "y": 0.42568453629304315,
+          "z": -0.08815424709103564
+        },
+        "effectiveExposure": 0.37635898995180517,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.20046024352795536,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.20046024352795536,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.9005673235693096,
+          "y": 0.42568453629304315,
+          "z": -0.08815424709103564
+        },
+        "intensityFactor": 0.44866065438224867,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 0.6999999999999993,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 5.5,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 5.5,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "dawn",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.6439088048959337,
+        "dayCycleAngleDeg": -97.5,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 82.5,
+        "moonPhase": 0.7259110602350347,
+        "solarDaySpanDeg": 220.6542580643595,
+        "sunDirection": {
+          "x": -0.9500704640837626,
+          "y": 0.14663780103058788,
+          "z": 0.2754332379807812
+        },
+        "moonDirection": {
+          "x": 0.17975038687701733,
+          "y": 0.8332430714353553,
+          "z": -0.5228726253329176
+        },
+        "effectiveExposure": 0.4827050468998002,
+        "solarExposureFactor": 0.3368013421792311,
+        "lunarExposureFactor": 0.27424528673332943,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0,
+        "reflectionFactor": 0.3368013421792311,
+        "skyZenithColor": "#263c5e",
+        "skyHorizonColor": "#d38368",
+        "skyGroundColor": "#5d5360",
+        "fogColor": "#d38368",
+        "lightColor": "#ffc29a",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.9500704640837626,
+          "y": 0.14663780103058788,
+          "z": 0.2754332379807812
+        },
+        "intensityFactor": 0.3368013421792311,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 6.199999999999999,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 12,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 12,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "day",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 1,
+        "dayCycleAngleDeg": 0,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 180,
+        "moonPhase": 0.7350823416647358,
+        "solarDaySpanDeg": 220.6542580643595,
+        "sunDirection": {
+          "x": 0.014140547149952401,
+          "y": 0.8482249505635958,
+          "z": -0.5294473327609514
+        },
+        "moonDirection": {
+          "x": 0.9192311228034985,
+          "y": 0.06926816406019759,
+          "z": 0.38757717207950887
+        },
+        "effectiveExposure": 0.9999608080420729,
+        "solarExposureFactor": 0.9999497539000934,
+        "lunarExposureFactor": 0.07763216085344261,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0,
+        "reflectionFactor": 0.9999497539000934,
+        "skyZenithColor": "#397bc0",
+        "skyHorizonColor": "#c8e2f1",
+        "skyGroundColor": "#91a6ae",
+        "fogColor": "#c8e2f1",
+        "lightColor": "#fff5dc",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.014140547149952401,
+          "y": 0.8482249505635958,
+          "z": -0.5294473327609514
+        },
+        "intensityFactor": 0.9999497539000934,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 12.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 20,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 20,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "dusk",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.2284113548382919,
+        "dayCycleAngleDeg": 120,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 300,
+        "moonPhase": 0.7463700726551679,
+        "solarDaySpanDeg": 220.6542580643595,
+        "sunDirection": {
+          "x": 0.8218569297655632,
+          "y": -0.10549252494902919,
+          "z": 0.559841508086173
+        },
+        "moonDirection": {
+          "x": -0.6160786095896188,
+          "y": -0.21708722121758323,
+          "z": 0.7571791632038948
+        },
+        "effectiveExposure": 0.22,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0.7147069609518635,
+        "reflectionFactor": 0,
+        "skyZenithColor": "#303c69",
+        "skyHorizonColor": "#cf765f",
+        "skyGroundColor": "#5c4e5c",
+        "fogColor": "#cf765f",
+        "lightColor": "#ffb18c",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "intensityFactor": 0,
+        "source": "none"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 20.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 23.99,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 23.989999999999995,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 179.8499999999999,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 359.8499999999999,
+        "moonPhase": 0.751999828486646,
+        "solarDaySpanDeg": 220.6542580643595,
+        "sunDirection": {
+          "x": -0.011866809484986744,
+          "y": -0.41300280793865024,
+          "z": 0.9106524361508277
+        },
+        "moonDirection": {
+          "x": -0.9271826200143477,
+          "y": 0.3535724318548647,
+          "z": 0.12376964319075559
+        },
+        "effectiveExposure": 0.34437172230537777,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.15945092603253558,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.15945092603253558,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.9271826200143477,
+          "y": 0.3535724318548647,
+          "z": 0.12376964319075559
+        },
+        "intensityFactor": 0.4094091101310637,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 217,
+        "timeHours": 0.6899999999999942,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 48.8566,
+        "longitude": 2.352200000000039,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 0,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 0,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -180,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 0,
+        "moonPhase": 0.40370106337798006,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": 0.013377658141505953,
+          "y": -0.9203079377522647,
+          "z": -0.3909659038494566
+        },
+        "moonDirection": {
+          "x": 0.5325720123683184,
+          "y": 0.7199000997149156,
+          "z": 0.44509650422398755
+        },
+        "effectiveExposure": 0.495813304477173,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.35360680061176025,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.35360680061176025,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.5325720123683184,
+          "y": 0.7199000997149156,
+          "z": 0.44509650422398755
+        },
+        "intensityFactor": 0.5630084687236826,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 0.6999999999999993,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 5.5,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 5.5,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "dawn",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.24,
+        "dayCycleAngleDeg": -97.5,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 82.5,
+        "moonPhase": 0.4114613784338985,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": -0.9107516059791363,
+          "y": -0.1338362191493399,
+          "z": -0.3906653025931969
+        },
+        "moonDirection": {
+          "x": 0.8045707839900382,
+          "y": -0.3831256713973557,
+          "z": 0.4537406455961166
+        },
+        "effectiveExposure": 0.22,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0.6842105263157895,
+        "reflectionFactor": 0,
+        "skyZenithColor": "#263c5e",
+        "skyHorizonColor": "#d38368",
+        "skyGroundColor": "#5d5360",
+        "fogColor": "#d38368",
+        "lightColor": "#ffc29a",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "intensityFactor": 0,
+        "source": "none"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 6.199999999999999,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 12,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 12,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "day",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 1,
+        "dayCycleAngleDeg": 0,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 180,
+        "moonPhase": 0.42063265986359966,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": -0.014329081169269084,
+          "y": 0.9205755160216518,
+          "z": -0.3903016740091108
+        },
+        "moonDirection": {
+          "x": -0.4264906676449491,
+          "y": -0.7776502404398973,
+          "z": 0.461915375318397
+        },
+        "effectiveExposure": 0.9999414259532199,
+        "solarExposureFactor": 0.9999249050682306,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0,
+        "reflectionFactor": 0.9999249050682306,
+        "skyZenithColor": "#397bc0",
+        "skyHorizonColor": "#c8e2f1",
+        "skyGroundColor": "#91a6ae",
+        "fogColor": "#c8e2f1",
+        "lightColor": "#fff5dc",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.014329081169269084,
+          "y": 0.9205755160216518,
+          "z": -0.3903016740091108
+        },
+        "intensityFactor": 0.9999249050682306,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 12.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 20,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 20,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 120,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 300,
+        "moonPhase": 0.4319203908540885,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": 0.8048822484100288,
+          "y": -0.44742376066933137,
+          "z": -0.38984169169411553
+        },
+        "moonDirection": {
+          "x": -0.5254957554563737,
+          "y": 0.709939084951795,
+          "z": 0.4688717379573468
+        },
+        "effectiveExposure": 0.5032118703792458,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.3630921415118535,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.3630921415118535,
+        "skyZenithColor": "#303c69",
+        "skyHorizonColor": "#cf765f",
+        "skyGroundColor": "#5c4e5c",
+        "fogColor": "#cf765f",
+        "lightColor": "#ffb18c",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.5254957554563737,
+          "y": 0.709939084951795,
+          "z": 0.4688717379573468
+        },
+        "intensityFactor": 0.5690015163729664,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 20.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 23.99,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 23.989999999999995,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 179.8499999999999,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 359.8499999999999,
+        "moonPhase": 0.4375501466855667,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": 0.01768578066744162,
+          "y": -0.9208113171638889,
+          "z": -0.38960715001792146
+        },
+        "moonDirection": {
+          "x": 0.311905261266524,
+          "y": 0.8251270636961411,
+          "z": 0.47104186305512785
+        },
+        "effectiveExposure": 0.5281051373210154,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.3950065863089941,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.3950065863089941,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.311905261266524,
+          "y": 0.8251270636961411,
+          "z": 0.47104186305512785
+        },
+        "intensityFactor": 0.5885026446177747,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 1,
+        "timeHours": 0.6899999999999942,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 0,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 0,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -180,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 0,
+        "moonPhase": 0.6476353866633531,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": 0.054034379061027975,
+          "y": -0.9891335427658874,
+          "z": -0.13673010076385428
+        },
+        "moonDirection": {
+          "x": -0.7226257813854696,
+          "y": 0.6593410883424353,
+          "z": -0.20756037507301905
+        },
+        "effectiveExposure": 0.4598972512678514,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.3075605785485275,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.3075605785485275,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.7226257813854696,
+          "y": 0.6593410883424353,
+          "z": -0.20756037507301905
+        },
+        "intensityFactor": 0.5324501474745691,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 0.6999999999999993,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 5.5,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 5.5,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "dawn",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.24,
+        "dayCycleAngleDeg": -97.5,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 82.5,
+        "moonPhase": 0.6553957017193284,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": -0.9738552177896503,
+          "y": -0.18253541573892645,
+          "z": -0.1352288311895429
+        },
+        "moonDirection": {
+          "x": 0.5239961028104542,
+          "y": 0.8206229101529999,
+          "z": -0.22804851144324018
+        },
+        "effectiveExposure": 0.48416146089648615,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.33866853961087967,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0.6842105263157895,
+        "reflectionFactor": 0.33866853961087967,
+        "skyZenithColor": "#263c5e",
+        "skyHorizonColor": "#d38368",
+        "skyGroundColor": "#5d5360",
+        "fogColor": "#d38368",
+        "lightColor": "#ffc29a",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.5239961028104541,
+          "y": 0.8206229101529997,
+          "z": -0.22804851144324012
+        },
+        "intensityFactor": 0.5533712933970569,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 6.199999999999999,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 12,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 12,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "day",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 1,
+        "dayCycleAngleDeg": 0,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 180,
+        "moonPhase": 0.6645669831490295,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": -0.053651564400684186,
+          "y": 0.9896019761134167,
+          "z": -0.1334520082643184
+        },
+        "moonDirection": {
+          "x": 0.7700869330707403,
+          "y": -0.5862055205590269,
+          "z": -0.25165294192562476
+        },
+        "effectiveExposure": 0.9992906428790886,
+        "solarExposureFactor": 0.9990905677937034,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0,
+        "reflectionFactor": 0.9990905677937034,
+        "skyZenithColor": "#397bc0",
+        "skyHorizonColor": "#c8e2f1",
+        "skyGroundColor": "#91a6ae",
+        "fogColor": "#c8e2f1",
+        "lightColor": "#fff5dc",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.053651564400684186,
+          "y": 0.9896019761134167,
+          "z": -0.1334520082643184
+        },
+        "intensityFactor": 0.9990905677937034,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 12.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 20,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 20,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 120,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 300,
+        "moonPhase": 0.6758547141394615,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": 0.883981733221391,
+          "y": -0.4487167855895606,
+          "z": -0.13126134869441927
+        },
+        "moonDirection": {
+          "x": -0.8613715636518032,
+          "y": -0.42404229466722543,
+          "z": -0.279691189824423
+        },
+        "effectiveExposure": 0.22,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0,
+        "skyZenithColor": "#303c69",
+        "skyHorizonColor": "#cf765f",
+        "skyGroundColor": "#5c4e5c",
+        "fogColor": "#cf765f",
+        "lightColor": "#ffb18c",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "intensityFactor": 0,
+        "source": "none"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 20.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 23.99,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 23.989999999999995,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 179.8499999999999,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 359.8499999999999,
+        "moonPhase": 0.6814844699709397,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": 0.05585076359255728,
+          "y": -0.9899177688269227,
+          "z": -0.13016721233419667
+        },
+        "moonDirection": {
+          "x": -0.8119318286231842,
+          "y": 0.5047683232548447,
+          "z": -0.2932160389663308
+        },
+        "effectiveExposure": 0.411905567268806,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.24603277854975128,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.24603277854975128,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.8119318286231842,
+          "y": 0.5047683232548447,
+          "z": -0.2932160389663308
+        },
+        "intensityFactor": 0.4869718673719561,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 60,
+        "timeHours": 0.6899999999999942,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 0,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 0,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -180,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 0,
+        "moonPhase": 0.7181507451790594,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": 0.025334339831636587,
+          "y": -0.9558743360397105,
+          "z": 0.29268143932599827
+        },
+        "moonDirection": {
+          "x": -0.9140281033981147,
+          "y": 0.3092101760901604,
+          "z": 0.2625675021794155
+        },
+        "effectiveExposure": 0.35433199792172254,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.17222051015605452,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.17222051015605452,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.9140281033981147,
+          "y": 0.3092101760901604,
+          "z": 0.2625675021794155
+        },
+        "intensityFactor": 0.4222217802210005,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 0.6999999999999993,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 5.5,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 5.5,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "dawn",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.24,
+        "dayCycleAngleDeg": -97.5,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 82.5,
+        "moonPhase": 0.7259110602350347,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": -0.9447167628464653,
+          "y": -0.14983887594376305,
+          "z": 0.2916479885972218
+        },
+        "moonDirection": {
+          "x": 0.14093784432345058,
+          "y": 0.9485696585192315,
+          "z": 0.2834645074328836
+        },
+        "effectiveExposure": 0.44918660030553437,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.2938289747506851,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0.6842105263157895,
+        "reflectionFactor": 0.2938289747506851,
+        "skyZenithColor": "#263c5e",
+        "skyHorizonColor": "#d38368",
+        "skyGroundColor": "#5d5360",
+        "fogColor": "#d38368",
+        "lightColor": "#ffc29a",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.14093784432345058,
+          "y": 0.9485696585192315,
+          "z": 0.2834645074328836
+        },
+        "intensityFactor": 0.522810777632679,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 6.199999999999999,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 12,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 12,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "day",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 1,
+        "dayCycleAngleDeg": 0,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 180,
+        "moonPhase": 0.7350823416647358,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": -0.02514022541206032,
+          "y": 0.9565686539133651,
+          "z": 0.2904210381783724
+        },
+        "moonDirection": {
+          "x": 0.9285651089196607,
+          "y": -0.20836148745898034,
+          "z": 0.30716824224014405
+        },
+        "effectiveExposure": 0.9998330578836873,
+        "solarExposureFactor": 0.9997859716457529,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0,
+        "reflectionFactor": 0.9997859716457529,
+        "skyZenithColor": "#397bc0",
+        "skyHorizonColor": "#c8e2f1",
+        "skyGroundColor": "#91a6ae",
+        "fogColor": "#c8e2f1",
+        "lightColor": "#fff5dc",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.02514022541206032,
+          "y": 0.9565686539133651,
+          "z": 0.2904210381783724
+        },
+        "intensityFactor": 0.9997859716457529,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 12.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 20,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 20,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 120,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 300,
+        "moonPhase": 0.7463700726551679,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": 0.8413163483177986,
+          "y": -0.45686109565904764,
+          "z": 0.28890265025855927
+        },
+        "moonDirection": {
+          "x": -0.5862949767227141,
+          "y": -0.7377213110478243,
+          "z": 0.334702057800055
+        },
+        "effectiveExposure": 0.22,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0,
+        "skyZenithColor": "#303c69",
+        "skyHorizonColor": "#cf765f",
+        "skyGroundColor": "#5c4e5c",
+        "fogColor": "#cf765f",
+        "lightColor": "#ffb18c",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "intensityFactor": 0,
+        "source": "none"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 20.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 0,
+        "longitude": 0,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 23.99,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 23.989999999999995,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 179.8499999999999,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 359.8499999999999,
+        "moonPhase": 0.751999828486646,
+        "solarDaySpanDeg": 180,
+        "sunDirection": {
+          "x": 0.027441585365213156,
+          "y": -0.9571944308879742,
+          "z": 0.28814194569637225
+        },
+        "moonDirection": {
+          "x": -0.9321236838498721,
+          "y": 0.10125390087064802,
+          "z": 0.3476968299605576
+        },
+        "effectiveExposure": 0.29314196773846535,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.09377175351085297,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.09377175351085297,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.9321236838498721,
+          "y": 0.10125390087064802,
+          "z": 0.3476968299605576
+        },
+        "intensityFactor": 0.33108194578586575,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 217,
+        "timeHours": 0.6899999999999942,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 0,
+        "longitude": 0,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 0,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 0,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -180,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 0,
+        "moonPhase": 0.40370106337798006,
+        "solarDaySpanDeg": 0,
+        "sunDirection": {
+          "x": 0.7903212243271764,
+          "y": -0.38267337079374053,
+          "z": -0.4784908083373697
+        },
+        "moonDirection": {
+          "x": -0.8897377807242267,
+          "y": 0.44679613376880833,
+          "z": -0.09348741306279168
+        },
+        "effectiveExposure": 0.4364747126220999,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.27753168284884605,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.27753168284884605,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.8897377807242267,
+          "y": 0.44679613376880833,
+          "z": -0.09348741306279168
+        },
+        "intensityFactor": 0.511012721180759,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 0.6999999999999993,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 5.5,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 5.5,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -97.5,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 82.5,
+        "moonPhase": 0.4114613784338985,
+        "solarDaySpanDeg": 0,
+        "sunDirection": {
+          "x": 0.5712813687193581,
+          "y": -0.40320322714469425,
+          "z": 0.7148879320384707
+        },
+        "moonDirection": {
+          "x": -0.07048882772294002,
+          "y": 0.4691752368987393,
+          "z": -0.880287408888289
+        },
+        "effectiveExposure": 0.44410036529274116,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.28730816063171943,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.28730816063171943,
+        "skyZenithColor": "#263c5e",
+        "skyHorizonColor": "#d38368",
+        "skyGroundColor": "#5d5360",
+        "fogColor": "#d38368",
+        "lightColor": "#ffc29a",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.07048882772294002,
+          "y": 0.4691752368987393,
+          "z": -0.880287408888289
+        },
+        "intensityFactor": 0.5181385061936917,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 6.199999999999999,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 12,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 12,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "dawn",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.28,
+        "dayCycleAngleDeg": 0,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 180,
+        "moonPhase": 0.42063265986359966,
+        "solarDaySpanDeg": 0,
+        "sunDirection": {
+          "x": -0.7900772423920843,
+          "y": -0.39849193119485055,
+          "z": 0.4658134088094913
+        },
+        "moonDirection": {
+          "x": 0.8867101973025023,
+          "y": 0.4621848804948009,
+          "z": -0.011408866804548747
+        },
+        "effectiveExposure": 0.4449478349425874,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.2883946601828043,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0.5789473684210525,
+        "reflectionFactor": 0.2883946601828043,
+        "skyZenithColor": "#397bc0",
+        "skyHorizonColor": "#c8e2f1",
+        "skyGroundColor": "#91a6ae",
+        "fogColor": "#c8e2f1",
+        "lightColor": "#fff5dc",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.8867101973025023,
+          "y": 0.4621848804948009,
+          "z": -0.011408866804548747
+        },
+        "intensityFactor": 0.5189213866597977,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 12.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 20,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 20,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 120,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 300,
+        "moonPhase": 0.4319203908540885,
+        "solarDaySpanDeg": 0,
+        "sunDirection": {
+          "x": -0.014960781208604687,
+          "y": -0.3737128329779336,
+          "z": -0.9274237939007364
+        },
+        "moonDirection": {
+          "x": -0.3520774049795465,
+          "y": 0.4546627914825843,
+          "z": 0.8181217800206351
+        },
+        "effectiveExposure": 0.4458361910294768,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.289533578242919,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.289533578242919,
+        "skyZenithColor": "#303c69",
+        "skyHorizonColor": "#cf765f",
+        "skyGroundColor": "#5c4e5c",
+        "fogColor": "#cf765f",
+        "lightColor": "#ffb18c",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.3520774049795465,
+          "y": 0.4546627914825843,
+          "z": 0.8181217800206351
+        },
+        "intensityFactor": 0.5197401399781105,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 20.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 23.99,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 0,
+        "timeHours": 23.989999999999995,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "JAN",
+        "dayInMonth": 1,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 179.8499999999999,
+        "seasonCycleAngleDeg": 0,
+        "moonCycleAngleDeg": 359.8499999999999,
+        "moonPhase": 0.4375501466855667,
+        "solarDaySpanDeg": 0,
+        "sunDirection": {
+          "x": 0.7886031024224167,
+          "y": -0.3812453173727227,
+          "z": -0.4824491214948074
+        },
+        "moonDirection": {
+          "x": -0.8705336291441808,
+          "y": 0.4684841016836134,
+          "z": 0.15064477089749856
+        },
+        "effectiveExposure": 0.45042125924451465,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0.2954118708263008,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0.2954118708263008,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.8705336291441808,
+          "y": 0.4684841016836134,
+          "z": 0.15064477089749856
+        },
+        "intensityFactor": 0.5239355428305876,
+        "source": "moon"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 1,
+        "timeHours": 0.6899999999999942,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 0,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 0,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -180,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 0,
+        "moonPhase": 0.6476353866633531,
+        "solarDaySpanDeg": 0,
+        "sunDirection": {
+          "x": 0.8295975862400461,
+          "y": -0.12726120791382636,
+          "z": -0.5436657335762509
+        },
+        "moonDirection": {
+          "x": -0.20969324157069363,
+          "y": -0.22420423728555267,
+          "z": 0.9517148755918329
+        },
+        "effectiveExposure": 0.22,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "intensityFactor": 0,
+        "source": "none"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 0.6999999999999993,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 5.5,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 5.5,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": -97.5,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 82.5,
+        "moonPhase": 0.6553957017193284,
+        "solarDaySpanDeg": 0,
+        "sunDirection": {
+          "x": 0.6450079160150892,
+          "y": -0.14833446320120955,
+          "z": 0.7496410309639412
+        },
+        "moonDirection": {
+          "x": -0.9726783385252398,
+          "y": -0.2272549046113527,
+          "z": -0.047455854157984895
+        },
+        "effectiveExposure": 0.22,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0,
+        "skyZenithColor": "#263c5e",
+        "skyHorizonColor": "#d38368",
+        "skyGroundColor": "#5d5360",
+        "fogColor": "#d38368",
+        "lightColor": "#ffc29a",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "intensityFactor": 0,
+        "source": "none"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 6.199999999999999,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 12,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 12,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "dawn",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.28,
+        "dayCycleAngleDeg": 0,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 180,
+        "moonPhase": 0.6645669831490295,
+        "solarDaySpanDeg": 0,
+        "sunDirection": {
+          "x": -0.8301946687491579,
+          "y": -0.14287805276726742,
+          "z": 0.538853109871243
+        },
+        "moonDirection": {
+          "x": 0.12262540610742878,
+          "y": -0.23485999649164827,
+          "z": -0.9642633415332822
+        },
+        "effectiveExposure": 0.22,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0.5789473684210525,
+        "reflectionFactor": 0,
+        "skyZenithColor": "#397bc0",
+        "skyHorizonColor": "#c8e2f1",
+        "skyGroundColor": "#91a6ae",
+        "fogColor": "#c8e2f1",
+        "lightColor": "#fff5dc",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "intensityFactor": 0,
+        "source": "none"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 12.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 20,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 20,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 120,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 300,
+        "moonPhase": 0.6758547141394615,
+        "solarDaySpanDeg": 0,
+        "sunDirection": {
+          "x": -0.05339073118564093,
+          "y": -0.11396506222344574,
+          "z": -0.9920490887127859
+        },
+        "moonDirection": {
+          "x": 0.7979171812867647,
+          "y": -0.2889672778951646,
+          "z": 0.5289859016204903
+        },
+        "effectiveExposure": 0.22,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0,
+        "skyZenithColor": "#303c69",
+        "skyHorizonColor": "#cf765f",
+        "skyGroundColor": "#5c4e5c",
+        "fogColor": "#cf765f",
+        "lightColor": "#ffb18c",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "intensityFactor": 0,
+        "source": "none"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 20.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 23.99,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2024,
+        "dayOfYear": 59,
+        "timeHours": 23.989999999999995,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "night",
+        "season": "winter",
+        "monthLabel": "FEB",
+        "dayInMonth": 29,
+        "daylightIntensity": 0.12,
+        "dayCycleAngleDeg": 179.8499999999999,
+        "seasonCycleAngleDeg": 58.032786885245905,
+        "moonCycleAngleDeg": 359.8499999999999,
+        "moonPhase": 0.6814844699709397,
+        "solarDaySpanDeg": 0,
+        "sunDirection": {
+          "x": 0.8293685536654475,
+          "y": -0.12066502247915509,
+          "z": -0.5455160442562513
+        },
+        "moonDirection": {
+          "x": -0.031176276652778615,
+          "y": -0.30984781394620986,
+          "z": 0.9502748928424998
+        },
+        "effectiveExposure": 0.22,
+        "solarExposureFactor": 0,
+        "lunarExposureFactor": 0,
+        "lightingCurveFactor": 1,
+        "fogFactor": 1,
+        "reflectionFactor": 0,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "intensityFactor": 0,
+        "source": "none"
+      },
+      "advance": {
+        "year": 2024,
+        "dayOfYear": 60,
+        "timeHours": 0.6899999999999942,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 0,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 0,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "dawn",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.28,
+        "dayCycleAngleDeg": -180,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 0,
+        "moonPhase": 0.7181507451790594,
+        "solarDaySpanDeg": 360,
+        "sunDirection": {
+          "x": 0.8151442879201543,
+          "y": 0.30136092520443925,
+          "z": -0.49469322072479344
+        },
+        "moonDirection": {
+          "x": 0.18923018409631856,
+          "y": 0.24601445250075776,
+          "z": 0.9506149728400166
+        },
+        "effectiveExposure": 0.9909659376822777,
+        "solarExposureFactor": 0.988417868823433,
+        "lunarExposureFactor": 0.15540157568057564,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0.5789473684210525,
+        "reflectionFactor": 0.988417868823433,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.8151442879201543,
+          "y": 0.30136092520443925,
+          "z": -0.49469322072479344
+        },
+        "intensityFactor": 0.988417868823433,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 0.6999999999999993,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 5.5,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 5.5,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "day",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.8895057373638833,
+        "dayCycleAngleDeg": -97.5,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 82.5,
+        "moonPhase": 0.7259110602350347,
+        "solarDaySpanDeg": 360,
+        "sunDirection": {
+          "x": 0.6021226544650367,
+          "y": 0.2786324297595887,
+          "z": 0.7482060398488146
+        },
+        "moonDirection": {
+          "x": -0.8919543436985098,
+          "y": 0.2772740894269007,
+          "z": 0.35712256732086217
+        },
+        "effectiveExposure": 0.954380130754527,
+        "solarExposureFactor": 0.9415129881468295,
+        "lunarExposureFactor": 0.15912556207077666,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0,
+        "reflectionFactor": 0.9415129881468295,
+        "skyZenithColor": "#263c5e",
+        "skyHorizonColor": "#d38368",
+        "skyGroundColor": "#5d5360",
+        "fogColor": "#d38368",
+        "lightColor": "#ffc29a",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.6021226544650367,
+          "y": 0.2786324297595887,
+          "z": 0.7482060398488146
+        },
+        "intensityFactor": 0.9415129881468295,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 6.199999999999999,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 12,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 12,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "day",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 1,
+        "dayCycleAngleDeg": 0,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 180,
+        "moonPhase": 0.7350823416647358,
+        "solarDaySpanDeg": 360,
+        "sunDirection": {
+          "x": -0.8158426420468285,
+          "y": 0.28164961809888917,
+          "z": 0.5050487858046984
+        },
+        "moonDirection": {
+          "x": -0.28383621315004076,
+          "y": 0.32297420786019754,
+          "z": -0.9028425472704101
+        },
+        "effectiveExposure": 0.9593004507478536,
+        "solarExposureFactor": 0.9478210907023765,
+        "lunarExposureFactor": 0.16448342057050247,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0,
+        "reflectionFactor": 0.9478210907023765,
+        "skyZenithColor": "#397bc0",
+        "skyHorizonColor": "#c8e2f1",
+        "skyGroundColor": "#91a6ae",
+        "fogColor": "#c8e2f1",
+        "lightColor": "#fff5dc",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.8158426420468285,
+          "y": 0.28164961809888917,
+          "z": 0.5050487858046984
+        },
+        "intensityFactor": 0.9478210907023765,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 12.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 20,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 20,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "day",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.8256579639437432,
+        "dayCycleAngleDeg": 120,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 300,
+        "moonPhase": 0.7463700726551679,
+        "solarDaySpanDeg": 360,
+        "sunDirection": {
+          "x": -0.025004859317371637,
+          "y": 0.3055611582954901,
+          "z": -0.9518440710282525
+        },
+        "moonDirection": {
+          "x": 0.9320328846419347,
+          "y": 0.33222719157269853,
+          "z": 0.14470589181423027
+        },
+        "effectiveExposure": 0.9976105411479427,
+        "solarExposureFactor": 0.9969365912153111,
+        "lunarExposureFactor": 0.15882373157083537,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0,
+        "reflectionFactor": 0.9969365912153111,
+        "skyZenithColor": "#303c69",
+        "skyHorizonColor": "#cf765f",
+        "skyGroundColor": "#5c4e5c",
+        "fogColor": "#cf765f",
+        "lightColor": "#ffb18c",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": -0.025004859317371637,
+          "y": 0.3055611582954901,
+          "z": -0.9518440710282525
+        },
+        "intensityFactor": 0.9969365912153111,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 20.700000000000003,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    },
+    {
+      "input": {
+        "latitude": 89,
+        "longitude": -120,
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 23.99,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120
+      },
+      "projection": {
+        "year": 2026,
+        "dayOfYear": 216,
+        "timeHours": 23.989999999999995,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        },
+        "phase": "dusk",
+        "season": "summer",
+        "monthLabel": "AUG",
+        "dayInMonth": 5,
+        "daylightIntensity": 0.330595034829728,
+        "dayCycleAngleDeg": 179.8499999999999,
+        "seasonCycleAngleDeg": 213.04109589041096,
+        "moonCycleAngleDeg": 359.8499999999999,
+        "moonPhase": 0.751999828486646,
+        "solarDaySpanDeg": 360,
+        "sunDirection": {
+          "x": 0.8152339008273669,
+          "y": 0.29686549176563287,
+          "z": -0.4972570429270395
+        },
+        "moonDirection": {
+          "x": 0.3783733915386836,
+          "y": 0.33267198267445314,
+          "z": 0.8638072287952689
+        },
+        "effectiveExposure": 0.9838152276464256,
+        "solarExposureFactor": 0.9792502918543917,
+        "lunarExposureFactor": 0.15494664384997053,
+        "lightingCurveFactor": 1,
+        "fogFactor": 0.4458025399217684,
+        "reflectionFactor": 0.9792502918543917,
+        "skyZenithColor": "#071326",
+        "skyHorizonColor": "#172b43",
+        "skyGroundColor": "#101a28",
+        "fogColor": "#172b43",
+        "lightColor": "#8da9d4",
+        "fogNear": 3.5,
+        "fogFar": 14
+      },
+      "shadow": {
+        "direction": {
+          "x": 0.815233900827367,
+          "y": 0.2968654917656329,
+          "z": -0.49725704292703954
+        },
+        "intensityFactor": 0.9792502918543917,
+        "source": "sun"
+      },
+      "advance": {
+        "year": 2026,
+        "dayOfYear": 217,
+        "timeHours": 0.6899999999999942,
+        "exposureMin": 0.22,
+        "exposureMax": 1,
+        "lightingIntensity": 1,
+        "cyclePlaying": true,
+        "cycleDurationSeconds": 120,
+        "sunVisible": false,
+        "moonVisible": false,
+        "celestialPathsVisible": false,
+        "latitude": 89,
+        "longitude": -120,
+        "composition": {
+          "hiddenTrackIds": [],
+          "parameterTracks": [],
+          "curves": {}
+        }
+      }
+    }
+  ],
+  "curves": [
+    {
+      "keys": [
+        {
+          "timeHours": 0,
+          "value": 0.2,
+          "interpolationToNext": "smooth",
+          "tangentMode": "free",
+          "outTangent": 0.07
+        },
+        {
+          "timeHours": 8,
+          "value": 0.8,
+          "inTangent": -0.02
+        },
+        {
+          "timeHours": 18,
+          "value": 0.1
+        }
+      ],
+      "samples": [
+        {
+          "time": -1,
+          "value": 0.1439814814814815
+        },
+        {
+          "time": 0,
+          "value": 0.2
+        },
+        {
+          "time": 1,
+          "value": 0.279375
+        },
+        {
+          "time": 4,
+          "value": 0.5700000000000001
+        },
+        {
+          "time": 7.999,
+          "value": 0.79999998062625
+        },
+        {
+          "time": 8,
+          "value": 0.8
+        },
+        {
+          "time": 12,
+          "value": 0.5536
+        },
+        {
+          "time": 18,
+          "value": 0.1
+        },
+        {
+          "time": 23.99,
+          "value": 0.19930149898148114
+        },
+        {
+          "time": 24,
+          "value": 0.2
+        },
+        {
+          "time": 25,
+          "value": 0.279375
+        }
+      ]
+    },
+    {
+      "keys": [
+        {
+          "timeHours": 0,
+          "value": 0.2,
+          "interpolationToNext": "linear",
+          "tangentMode": "free",
+          "outTangent": 0.07
+        },
+        {
+          "timeHours": 8,
+          "value": 0.8,
+          "inTangent": -0.02
+        },
+        {
+          "timeHours": 18,
+          "value": 0.1
+        }
+      ],
+      "samples": [
+        {
+          "time": -1,
+          "value": 0.1439814814814815
+        },
+        {
+          "time": 0,
+          "value": 0.2
+        },
+        {
+          "time": 1,
+          "value": 0.275
+        },
+        {
+          "time": 4,
+          "value": 0.5
+        },
+        {
+          "time": 7.999,
+          "value": 0.799925
+        },
+        {
+          "time": 8,
+          "value": 0.8
+        },
+        {
+          "time": 12,
+          "value": 0.5536
+        },
+        {
+          "time": 18,
+          "value": 0.1
+        },
+        {
+          "time": 23.99,
+          "value": 0.19930149898148114
+        },
+        {
+          "time": 24,
+          "value": 0.2
+        },
+        {
+          "time": 25,
+          "value": 0.275
+        }
+      ]
+    },
+    {
+      "keys": [
+        {
+          "timeHours": 0,
+          "value": 0.2,
+          "interpolationToNext": "step",
+          "tangentMode": "free",
+          "outTangent": 0.07
+        },
+        {
+          "timeHours": 8,
+          "value": 0.8,
+          "inTangent": -0.02
+        },
+        {
+          "timeHours": 18,
+          "value": 0.1
+        }
+      ],
+      "samples": [
+        {
+          "time": -1,
+          "value": 0.1439814814814815
+        },
+        {
+          "time": 0,
+          "value": 0.2
+        },
+        {
+          "time": 1,
+          "value": 0.2
+        },
+        {
+          "time": 4,
+          "value": 0.2
+        },
+        {
+          "time": 7.999,
+          "value": 0.2
+        },
+        {
+          "time": 8,
+          "value": 0.8
+        },
+        {
+          "time": 12,
+          "value": 0.5536
+        },
+        {
+          "time": 18,
+          "value": 0.1
+        },
+        {
+          "time": 23.99,
+          "value": 0.19930149898148114
+        },
+        {
+          "time": 24,
+          "value": 0.2
+        },
+        {
+          "time": 25,
+          "value": 0.2
+        }
+      ]
+    },
+    {
+      "keys": [
+        {
+          "timeHours": 0,
+          "value": 0.2,
+          "interpolationToNext": "ease_in",
+          "tangentMode": "free",
+          "outTangent": 0.07
+        },
+        {
+          "timeHours": 8,
+          "value": 0.8,
+          "inTangent": -0.02
+        },
+        {
+          "timeHours": 18,
+          "value": 0.1
+        }
+      ],
+      "samples": [
+        {
+          "time": -1,
+          "value": 0.1439814814814815
+        },
+        {
+          "time": 0,
+          "value": 0.2
+        },
+        {
+          "time": 1,
+          "value": 0.21559075911778058
+        },
+        {
+          "time": 4,
+          "value": 0.3892140875035359
+        },
+        {
+          "time": 7.999,
+          "value": 0.799870866060425
+        },
+        {
+          "time": 8,
+          "value": 0.8
+        },
+        {
+          "time": 12,
+          "value": 0.5536
+        },
+        {
+          "time": 18,
+          "value": 0.1
+        },
+        {
+          "time": 23.99,
+          "value": 0.19930149898148114
+        },
+        {
+          "time": 24,
+          "value": 0.2
+        },
+        {
+          "time": 25,
+          "value": 0.21559075911778058
+        }
+      ]
+    },
+    {
+      "keys": [
+        {
+          "timeHours": 0,
+          "value": 0.2,
+          "interpolationToNext": "ease_out",
+          "tangentMode": "free",
+          "outTangent": 0.07
+        },
+        {
+          "timeHours": 8,
+          "value": 0.8,
+          "inTangent": -0.02
+        },
+        {
+          "timeHours": 18,
+          "value": 0.1
+        }
+      ],
+      "samples": [
+        {
+          "time": -1,
+          "value": 0.1439814814814815
+        },
+        {
+          "time": 0,
+          "value": 0.2
+        },
+        {
+          "time": 1,
+          "value": 0.31914800957595546
+        },
+        {
+          "time": 4,
+          "value": 0.6107859124964642
+        },
+        {
+          "time": 7.999,
+          "value": 0.7999999822870003
+        },
+        {
+          "time": 8,
+          "value": 0.8
+        },
+        {
+          "time": 12,
+          "value": 0.5536
+        },
+        {
+          "time": 18,
+          "value": 0.1
+        },
+        {
+          "time": 23.99,
+          "value": 0.19930149898148114
+        },
+        {
+          "time": 24,
+          "value": 0.2
+        },
+        {
+          "time": 25,
+          "value": 0.31914800957595546
+        }
+      ]
+    },
+    {
+      "keys": [
+        {
+          "timeHours": 0,
+          "value": 0.2,
+          "interpolationToNext": "ease_in_out",
+          "tangentMode": "free",
+          "outTangent": 0.07
+        },
+        {
+          "timeHours": 8,
+          "value": 0.8,
+          "inTangent": -0.02
+        },
+        {
+          "timeHours": 18,
+          "value": 0.1
+        }
+      ],
+      "samples": [
+        {
+          "time": -1,
+          "value": 0.1439814814814815
+        },
+        {
+          "time": 0,
+          "value": 0.2
+        },
+        {
+          "time": 1,
+          "value": 0.21866842214577192
+        },
+        {
+          "time": 4,
+          "value": 0.5
+        },
+        {
+          "time": 7.999,
+          "value": 0.7999999822837234
+        },
+        {
+          "time": 8,
+          "value": 0.8
+        },
+        {
+          "time": 12,
+          "value": 0.5536
+        },
+        {
+          "time": 18,
+          "value": 0.1
+        },
+        {
+          "time": 23.99,
+          "value": 0.19930149898148114
+        },
+        {
+          "time": 24,
+          "value": 0.2
+        },
+        {
+          "time": 25,
+          "value": 0.21866842214577192
+        }
+      ]
+    }
+  ],
+  "legacy": [
+    {
+      "input": null,
+      "resolved": {
+        "hiddenTrackIds": [],
+        "parameterTracks": [],
+        "curves": {}
+      }
+    },
+    {
+      "input": {},
+      "resolved": {
+        "hiddenTrackIds": [],
+        "parameterTracks": [],
+        "curves": {}
+      }
+    },
+    {
+      "input": {
+        "hiddenTrackIds": [
+          "fog",
+          "unknown"
+        ],
+        "curves": {
+          "fog": [
+            {
+              "timeHours": 4,
+              "value": 0.3
+            },
+            {
+              "timeHours": 4,
+              "value": 0.7
+            },
+            {
+              "timeHours": 25,
+              "value": 2
+            }
+          ]
+        }
+      },
+      "resolved": {
+        "hiddenTrackIds": [
+          "fog"
+        ],
+        "parameterTracks": [],
+        "curves": {
+          "fog": [
+            {
+              "timeHours": 0,
+              "value": 1
+            },
+            {
+              "timeHours": 4,
+              "value": 0.3
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
